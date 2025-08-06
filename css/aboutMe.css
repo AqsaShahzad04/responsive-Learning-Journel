@@ -1,0 +1,29 @@
+#profile-img{
+    width:182px;
+    height:182px;
+    border-radius: 100%;;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+.profile{
+    padding:2em;
+}
+#main-heading{
+    font-size: 34px;
+    min-width:90%;
+    
+}
+@media(min-width:768px){
+    .profile{
+        display:flex;
+        min-width:90%;
+        margin:2em auto;
+    }
+    .profile-desc{
+        min-width:764px;
+        max-width:90%;
+    }
+    
+}
