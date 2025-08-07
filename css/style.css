@@ -63,7 +63,7 @@ header{
 }
 #home-header{
      color:white;
-    background-image: url('../public/images/article-image-hero.png');
+    background-image: url('/images/article-image-hero.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
